@@ -1,0 +1,15 @@
+/Users/ilginarpaci1/Documents/sites/c#/ifElseIf/bin/Debug/net6.0/ifElseIf
+/Users/ilginarpaci1/Documents/sites/c#/ifElseIf/bin/Debug/net6.0/ifElseIf.deps.json
+/Users/ilginarpaci1/Documents/sites/c#/ifElseIf/bin/Debug/net6.0/ifElseIf.runtimeconfig.json
+/Users/ilginarpaci1/Documents/sites/c#/ifElseIf/bin/Debug/net6.0/ifElseIf.dll
+/Users/ilginarpaci1/Documents/sites/c#/ifElseIf/bin/Debug/net6.0/ifElseIf.pdb
+/Users/ilginarpaci1/Documents/sites/c#/ifElseIf/obj/Debug/net6.0/ifElseIf.csproj.AssemblyReference.cache
+/Users/ilginarpaci1/Documents/sites/c#/ifElseIf/obj/Debug/net6.0/ifElseIf.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilginarpaci1/Documents/sites/c#/ifElseIf/obj/Debug/net6.0/ifElseIf.AssemblyInfoInputs.cache
+/Users/ilginarpaci1/Documents/sites/c#/ifElseIf/obj/Debug/net6.0/ifElseIf.AssemblyInfo.cs
+/Users/ilginarpaci1/Documents/sites/c#/ifElseIf/obj/Debug/net6.0/ifElseIf.csproj.CoreCompileInputs.cache
+/Users/ilginarpaci1/Documents/sites/c#/ifElseIf/obj/Debug/net6.0/ifElseIf.dll
+/Users/ilginarpaci1/Documents/sites/c#/ifElseIf/obj/Debug/net6.0/refint/ifElseIf.dll
+/Users/ilginarpaci1/Documents/sites/c#/ifElseIf/obj/Debug/net6.0/ifElseIf.pdb
+/Users/ilginarpaci1/Documents/sites/c#/ifElseIf/obj/Debug/net6.0/ifElseIf.genruntimeconfig.cache
+/Users/ilginarpaci1/Documents/sites/c#/ifElseIf/obj/Debug/net6.0/ref/ifElseIf.dll
